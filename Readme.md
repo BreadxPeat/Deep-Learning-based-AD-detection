@@ -1,2 +1,2 @@
-This is a deep learning course project
-Created by a team of 4 students
+Designing a deep learning model to Predicting the Onset of Alzheimer's Disease from MRI Images
+
