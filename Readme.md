@@ -1,14 +1,14 @@
 # Designing a deep learning model to Predicting the Onset of Alzheimer's Disease from MRI Images
-### This is Deep Learning course project
+### --- Deep Learning Course Project ---
 Project Members - 
 
-    * Devavrath Sandeep B21BB010
+    * Devavrath Sandeep (B21BB010)
 
-    * Nidhi Patel B21BB020
+    * Nidhi Patel (B21BB020)
 
-    * Ritu Badgoti B21BB039
+    * Ritu Badgoti (B21BB039)
 
-    * Aayush Gulati B21BB002
+    * Aayush Gulati (B21BB002)
 
 
 
