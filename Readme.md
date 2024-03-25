@@ -11,7 +11,7 @@ Project Members -
     * Aayush Gulati (B21BB002)
 
 ![](https://kenlyen.files.wordpress.com/2021/07/alzheimer-mri-gif-a-1.gif)
-!<-- https://kenlyen.wordpress.com/2021/07/06/alzheimer-disease/ -->
+<!-- https://kenlyen.wordpress.com/2021/07/06/alzheimer-disease/  -->
 
 
 **Introduction to the Problem Statement**
