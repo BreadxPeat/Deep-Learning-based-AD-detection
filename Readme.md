@@ -2,8 +2,11 @@
 ### This is Deep Learning course project
 Project Members - 
     * Devavrath Sandeep B21BB010
+
     * Nidhi Patel B21BB020
+
     * Ritu Badgoti B21BB039
+    
     * Aayush Gulati B21BB002
 
 
