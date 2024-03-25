@@ -20,15 +20,15 @@ We plan to curate a comprehensive dataset from ADNI, encompassing MRI scans from
 
 [3D CNN for early Alzheimer’s](https://www.nature.com/articles/s41598-022-20674-x)
 
-https://www.mdpi.com/2075-4426/11/9/902
+[ResNet + CNN based MRI](https://www.mdpi.com/2075-4426/11/9/902)
 
-https://link.springer.com/article/10.1007/s12559-021-09946-2
+[Deep learning approach for early detection](https://link.springer.com/article/10.1007/s12559-021-09946-2)
 
-https://link.springer.com/article/10.1007/s11042-023-15738-7
+[A DL framework for early Alzheimer diagnosis](https://link.springer.com/article/10.1007/s11042-023-15738-7)
 
-https://link.springer.com/article/10.1007/s12021-023-09625-7
+[Automatic detection of Alzheimer](https://link.springer.com/article/10.1007/s12021-023-09625-7)
 
-https://www.frontiersin.org/articles/10.3389/fnagi.2022.876202/full
+[CNN for multiclass classification on Alzheimer's ](https://www.frontiersin.org/articles/10.3389/fnagi.2022.876202/full)
 
 
 
