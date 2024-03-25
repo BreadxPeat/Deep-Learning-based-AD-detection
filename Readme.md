@@ -10,8 +10,10 @@ Project Members -
 
     * Aayush Gulati (B21BB002)
 
-
 ![](https://kenlyen.files.wordpress.com/2021/07/alzheimer-mri-gif-a-1.gif)
+
+
+
 **Introduction to the Problem Statement**
 
 In our endeavor to address the challenge of early Alzheimer's Disease (AD) detection, we are planning to leverage the power of deep learning on MRI images. In this project, we aim to design a robust predictive model, and our approach involves utilizing the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset.
