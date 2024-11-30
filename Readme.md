@@ -2,13 +2,14 @@
 ### --- Deep Learning Course Project ---
 Project Members - 
 
-    * Devavrath Sandeep (B21BB010)
+    * Aayush Gulati (B21BB002)
 
     * Nidhi Patel (B21BB020)
 
     * Ritu Badgoti (B21BB039)
+    
+    * Devavrath Sandeep (B21BB010)
 
-    * Aayush Gulati (B21BB002)
 
 ![](https://kenlyen.files.wordpress.com/2021/07/alzheimer-mri-gif-a-1.gif)
 <!-- https://kenlyen.wordpress.com/2021/07/06/alzheimer-disease/  -->
